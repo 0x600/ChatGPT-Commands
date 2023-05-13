@@ -3,6 +3,8 @@ GPT 3.5 Turbo API used in ROBLOX.
 
 # How do I use it?
 Well, this was made to be inputted via chat.
+
+MAKE SURE TO TURN ON ALLOW HTTP REQUESTS ELSE IT WILL NOT WORK.
 ```
 .askgpt <args>
 ```
