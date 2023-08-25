@@ -3,7 +3,6 @@ local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local SendData = ReplicatedStorage:WaitForChild("SendData")
-local FireCode = ReplicatedStorage:WaitForChild("FireCode")
 
 local Settings = {
 	URL = "https://api.openai.com/v1/chat/completions",
