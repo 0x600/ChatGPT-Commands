@@ -1,7 +1,6 @@
 local HTTPService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local LogService = game:GetService("LogService")
 
 local SendData = ReplicatedStorage:WaitForChild("SendData")
 local FireCode = ReplicatedStorage:WaitForChild("FireCode")
